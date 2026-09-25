@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Name:Ayush Babade");
+    printf("Name:Ayush Badade");
     printf(" ");
     printf("Department:School of Computing");
     printf(" ");
